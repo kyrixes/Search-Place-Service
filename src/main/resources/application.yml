@@ -1,0 +1,11 @@
+# 검색 API 인증 키
+kakaokey: 33dc76e9bdacd545950c7e9217d796ac
+
+naverid: FjUrojAjwCGvFDmKiWSG
+naversecret: PmaZVjzXnO
+
+# Redis 서버/포트 설정
+redis:
+  host: localhost
+  port: 6379
+
